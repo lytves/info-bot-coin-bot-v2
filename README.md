@@ -14,3 +14,8 @@ Had been used:
 + put your channel alias at *CHAT_ID*
 + choose your bot's run method *start_polling()* or *start_webhook()*
 + Add your bot to your telegram channel and make it an administrator to send  messages
+---
+
+Screenshot of the bot's work:
+
+![info-bot-coin-bot-v2](info-bot-coin-bot-v2.jpg "info-bot-coin-bot-v2")
