@@ -5,7 +5,7 @@ This is a simple version of a Telegram Bot on Python, that sending a message to 
 
 Had been used:
 
-+ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot "python-telegram-bot API Library GitHub Repository") API Library, you can use *start_polling* or *webhook* updates methods to recieve the messages (see infobotcoinbot.py code and pyTelegramBotAPI Library manual)
++ [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot "python-telegram-bot API Library GitHub Repository") API Library, you can use *start_polling* or *webhook* updates methods to recieve the messages (see infobotcoinbot.py code and python-telegram-bot API Library manual)
 * [Emoji Library](https://github.com/carpedm20/emoji "Emoji for Python.") to use unicode emojis
 ---
 
